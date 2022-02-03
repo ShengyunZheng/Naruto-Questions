@@ -1,0 +1,68 @@
+img {
+    display:block;
+    margin-left: auto;
+  	margin-right: auto;
+}
+
+h1 {
+    text-align:center;
+}
+
+p {
+    text-align:center;
+}
+
+input {
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button { 
+   	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html {
+    background-color:#CD7F32;
+}
+
+.counter { 
+    text-align:center;
+}
+.mapofnaruto {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.finalanswer {
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.Naruto-Picture {
+    display: none;
+    width: 50em;
+    height:35em;
+}
+
+.Rocklee-Picture {
+   	display: none;
+    width: 50em;
+    height:35em;
+}
+    
+.Sasuke-Picture {
+   	display: none;
+    width: 50em;
+    height:35em;
+}
+
+.Shikamaru-Picture {
+    display: none;
+    width: 50em;
+    height:35em;
+}
